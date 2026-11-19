@@ -1,0 +1,13 @@
+{
+  "name": "support-agent",
+  "owner": { "name": "Dinh Quoc Toan" },
+  "metadata": { "description": "Claude Code tools for technical-support agents" },
+  "plugins": [
+    {
+      "name": "support-agent-toolkit",
+      "source": "./plugins/support-agent-toolkit",
+      "description": "Ticket-to-resolution workflow for technical support: case files, check-task, open-env (read-only admin guard), native-check, headless proof runner, docs-task",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "support-agent-toolkit",
+  "version": "1.0.0",
+  "description": "Technical-support workflow for Claude Code: persistent case files, check-task, open-env with a read-only Shopify admin guard, native-first check, zero-token headless proof runner, structured customer-ready comments",
+  "author": { "name": "Dinh Quoc Toan" },
+  "keywords": ["support", "helpdesk", "shopify", "automation", "chrome-devtools", "puppeteer"]
+}

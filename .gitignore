@@ -1,0 +1,12 @@
+# Never commit secrets or case data
+node_modules/
+.env
+.env.*
+*.secret
+store-passwords.md
+*-passwords.md
+*-tokens.md
+cases/
+support-cases/
+TASK-*/
+__pycache__/
